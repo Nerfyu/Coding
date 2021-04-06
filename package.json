@@ -1,0 +1,15 @@
+{
+  "name": "aril",
+  "version": "1.0.5",
+  "description": "Bot semua senang.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.0"
+  },
+  "engines": {
+    "node": "12.x.x"
+  }
+}
