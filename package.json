@@ -1,7 +1,7 @@
 {
-  "name": "aril",
-  "version": "1.0.5",
-  "description": "Bot semua senang.",
+  "name": "MystLand",
+  "version": "1.6.0",
+  "description": "Hanya untuk bersenang-senang",
   "main": "server.js",
   "scripts": {
     "start": "node index.js"
