@@ -1,2 +1,2 @@
-# 24jam-aril
-Pribadi
+# Apa ini?
+Tebak output nya :v
