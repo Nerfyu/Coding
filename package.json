@@ -1,7 +1,7 @@
 {
   "name": "Bruh",
   "version": "1.6.5",
-  "description": "Hanya untuk bersenang-senang",
+  "description": "ini apa?",
   "main": "server.js",
   "scripts": {
     "start": "node index.js"
